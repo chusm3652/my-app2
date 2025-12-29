@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  background: #eef1f6;
+  font-family: -apple-system, BlinkMacSystemFont;
+}
+
+.app {
+  max-width: 420px;
+  margin: auto;
+  padding: 16px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.top {
+  font-size: 14px;
+}
+
+.title {
+  font-weight: bold;
+  margin-top: 4px;
+}
+
+.card {
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+}
+
+.profile {
+  width: 120px;
+  display: block;
+  margin: auto;
+  border-radius: 8px;
+}
+
+.info {
+  margin-top: 12px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.qr {
+  width: 140px;
+  display: block;
+  margin: 20px auto;
+}
+
+.timer {
+  margin-top: 10px;
+}
+
+.bar {
+  height: 4px;
+  background: #2d7cff;
+  border-radius: 2px;
+}
+
+.time-text {
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+.detail-btn {
+  width: 100%;
+  margin-top: 16px;
+  padding: 16px;
+  background: #2d7cff;
+  color: white;
+  border: none;
+  border-radius: 12px;
+}
